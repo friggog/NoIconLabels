@@ -1,0 +1,9 @@
+Package: me.chewitt.nil
+Name: NoIconLabels
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hides SpringBoard icon labels.
+Maintainer: Charlie Hewitt <contact@chewitt.me>
+Author: Charlie Hewitt <contact@chewitt.me>
+Section: Tweaks
