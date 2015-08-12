@@ -9,3 +9,11 @@
 }
 
 %end
+
+%hook SBIconView
+
++(CGFloat)_labelHeight {
+	return 5;
+}
+
+%end
